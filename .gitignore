@@ -1,0 +1,37 @@
+# secrets
+.env
+secrets/
+*accessKeys*.csv
+*gcp-sa*.json
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+api-venv/
+gx_env/
+
+# data
+*.parquet
+gold_data/
+*.zip
+
+# ML artifacts (optional but recommended if large)
+*.joblib
+*.pkl
+
+# terraform (IMPORTANT)
+infrastructure/terraform/.terraform/
+**/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# editor/system
+.DS_Store
+.vscode/
+.idea/
+*.log
