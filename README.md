@@ -1,4 +1,4 @@
-## Real-Time Transport Lakehouse and Machine Learning Platform
+## ## End-to-End Real-Time Transport Lakehouse and Machine Learning Platform
 
 
 ## Project Overview
@@ -13,11 +13,17 @@ The platform also includes a machine learning pipeline that retrains models auto
 This project is built to demonstrate real-world data engineering and MLOps practices used in modern technology teams.
 
 ---
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Spark](https://img.shields.io/badge/spark-3.5-orange)
-![Airflow](https://img.shields.io/badge/airflow-2.8-red)
-![Kafka](https://img.shields.io/badge/kafka-)
-![CI](https://github.com/Anees0711/repo/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
+![Spark](https://img.shields.io/badge/Spark-3.5-orange)
+![Airflow](https://img.shields.io/badge/Airflow-2.8-red)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-Lakehouse-green)
+![Snowflake](https://img.shields.io/badge/Snowflake-Analytics-29B5E8)
+![BigQuery](https://img.shields.io/badge/BigQuery-Warehouse-4285F4)
+![FastAPI](https://img.shields.io/badge/FastAPI-Serving-009688)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC)
+
 
 ## How the Platform Works
 
