@@ -16,8 +16,8 @@ This project is built to demonstrate real-world data engineering and MLOps pract
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Spark](https://img.shields.io/badge/spark-3.5-orange)
 ![Airflow](https://img.shields.io/badge/airflow-2.8-red)
-![Kafka](https://img.shields.io/badge/kafka-streaming-black)
-![CI](https://github.com/YOURNAME/repo/actions/workflows/ci.yml/badge.svg)
+![Kafka](https://img.shields.io/badge/kafka-)
+![CI](https://github.com/Anees0711/repo/actions/workflows/ci.yml/badge.svg)
 
 ## How the Platform Works
 
