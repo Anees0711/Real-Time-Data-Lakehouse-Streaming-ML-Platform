@@ -1,4 +1,4 @@
-## ## End-to-End Real-Time Transport Lakehouse and Machine Learning Platform
+## End-to-End Real-Time Transport Lakehouse and Machine Learning Platform
 
 
 ## Project Overview
