@@ -1,20 +1,11 @@
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Spark](https://img.shields.io/badge/spark-3.5-orange)
-![Airflow](https://img.shields.io/badge/airflow-2.8-red)
-![Kafka](https://img.shields.io/badge/kafka-streaming-black)
-![CI](https://github.com/YOURNAME/repo/actions/workflows/ci.yml/badge.svg)
+## Real-Time Transport Lakehouse and Machine Learning Platform
 
 
-Real-Time Transport Lakehouse and Machine Learning Platform
+## Project Overview
 
 This project demonstrates a complete real-time data platform that collects live transport data, processes it automatically, stores it in a structured data lake, and trains machine learning models to generate insights.
 
 It is designed to simulate how modern companies build reliable data systems at scale. The platform combines real-time streaming, cloud storage, automated pipelines, and machine learning into one production-style architecture.
-
----
-
-Project Overview
-
 The system receives live data events, processes them continuously, organizes them into clean datasets, and prepares them for analytics and machine learning. Automated workflows ensure that data is always updated and reliable.
 
 The platform also includes a machine learning pipeline that retrains models automatically and serves predictions through an API.
@@ -22,8 +13,13 @@ The platform also includes a machine learning pipeline that retrains models auto
 This project is built to demonstrate real-world data engineering and MLOps practices used in modern technology teams.
 
 ---
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Spark](https://img.shields.io/badge/spark-3.5-orange)
+![Airflow](https://img.shields.io/badge/airflow-2.8-red)
+![Kafka](https://img.shields.io/badge/kafka-streaming-black)
+![CI](https://github.com/YOURNAME/repo/actions/workflows/ci.yml/badge.svg)
 
-How the Platform Works
+## How the Platform Works
 
 1. Live events are streamed into the system
 2. Spark processes the data in real time
@@ -37,7 +33,7 @@ The architecture supports scalability, monitoring, and production reliability.
 
 ---
 
-Key Capabilities
+## Key Capabilities
 
 - Real-time data ingestion and processing
 - Automated data pipelines
@@ -53,40 +49,40 @@ Key Capabilities
 
 ---
 
-Technology Stack
+## Technology Stack
 
-Streaming and Processing
+## Streaming and Processing
 - Apache Kafka
 - Apache Spark
 
-Storage and Analytics
+## Storage and Analytics
 - AWS S3 lakehouse
 - Snowflake
 - BigQuery
 - Parquet data format
 
-Orchestration
+## Orchestration
 - Apache Airflow
 
-Machine Learning
+## Machine Learning
 - Python
 - Feature engineering pipeline
 - Automated model training
 
-Serving
+## Serving
 - FastAPI prediction API
 
-Infrastructure
+## Infrastructure
 - Docker
 - Kubernetes
 - Terraform
 
-Data Quality
+## Data Quality
 - Great Expectations
 
 ---
 
-Running the Project
+## Running the Project
 
 Start the system:
 
@@ -102,7 +98,7 @@ http://localhost:8000
 
 ---
 
-Machine Learning Pipeline
+## Machine Learning Pipeline
 
 The ML pipeline automatically:
 
@@ -117,7 +113,7 @@ This ensures models stay updated without manual intervention.
 
 ---
 
-Project Structure
+## Project Structure
 
 src/
   streaming/
@@ -132,7 +128,7 @@ The structure follows production standards used in real data engineering teams.
 
 ---
 
-Purpose of the Project
+## Purpose of the Project
 
 This platform demonstrates:
 
@@ -146,7 +142,7 @@ It is designed as a portfolio project to showcase practical skills in building l
 
 ---
 
-Author
+## Author
 
 Built as a professional data engineering portfolio project demonstrating real-time architecture and machine learning systems.
 
